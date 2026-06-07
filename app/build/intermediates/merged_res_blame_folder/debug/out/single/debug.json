@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-merged_res-45:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-main-47:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-merged_res-45:\\menu_main.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-main-47:\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-merged_res-45:\\layout_fragment_listsonsors.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-main-47:\\layout\\fragment_listsonsors.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-merged_res-45:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-main-47:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-merged_res-45:\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-main-47:\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-merged_res-45:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-main-47:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-merged_res-45:\\mipmap-hdpi_proximity.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-main-47:\\mipmap-hdpi\\proximity.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-merged_res-45:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-main-47:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-merged_res-45:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-main-47:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-merged_res-45:\\layout_fragment_compass.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-main-47:\\layout\\fragment_compass.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-merged_res-45:\\layout_fragment_rotation.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-main-47:\\layout\\fragment_rotation.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-merged_res-45:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-main-47:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-merged_res-45:\\layout_fragment_humidity.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-main-47:\\layout\\fragment_humidity.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-merged_res-45:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-main-47:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-merged_res-45:\\mipmap-hdpi_magnetic.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-main-47:\\mipmap-hdpi\\magnetic.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-merged_res-45:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-main-47:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-merged_res-45:\\layout_fragment_magnetic.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-main-47:\\layout\\fragment_magnetic.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-merged_res-45:\\mipmap-xxhdpi_compass1.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-main-47:\\mipmap-xxhdpi\\compass1.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-merged_res-45:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-main-47:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-merged_res-45:\\drawable_ic_baseline_screen_rotation_24.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-main-47:\\drawable\\ic_baseline_screen_rotation_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-merged_res-45:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-main-47:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-merged_res-45:\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-main-47:\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-merged_res-45:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-main-47:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-merged_res-45:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-main-47:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-merged_res-45:\\layout_fragment_proximity.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-main-47:\\layout\\fragment_proximity.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-merged_res-45:\\drawable-v21_ic_menu_share.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-main-47:\\drawable-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-merged_res-45:\\mipmap-xxhdpi_img_compass.jpg.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-main-47:\\mipmap-xxhdpi\\img_compass.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-merged_res-45:\\mipmap-xxhdpi_compass.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-main-47:\\mipmap-xxhdpi\\compass.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-merged_res-45:\\layout_nav_header_main.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-main-47:\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-merged_res-45:\\layout_app_bar_main.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-main-47:\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-merged_res-45:\\mipmap-hdpi_temp.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-main-47:\\mipmap-hdpi\\temp.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-merged_res-45:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-main-47:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-merged_res-45:\\menu_activity_main_drawer.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-main-47:\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-merged_res-45:\\drawable_ic_sensors.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-main-47:\\drawable\\ic_sensors.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-merged_res-45:\\mipmap-hdpi_sensors.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-main-47:\\mipmap-hdpi\\sensors.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-merged_res-45:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-main-47:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-merged_res-45:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-main-47:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-merged_res-45:\\mipmap-hdpi_humd.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-main-47:\\mipmap-hdpi\\humd.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-merged_res-45:\\layout_fragment_share.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-main-47:\\layout\\fragment_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-merged_res-45:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-main-47:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "ensa.ma.sensors.app-merged_res-45:/menu_activity_main_drawer.xml.flat",
+        "source": "ensa.ma.sensors.app-main-47:/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-merged_res-45:\\layout_fragment_thermo.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-main-47:\\layout\\fragment_thermo.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-merged_res-45:\\layout_fragment_listsonsors_list.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-main-47:\\layout\\fragment_listsonsors_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-merged_res-45:\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-main-47:\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-merged_res-45:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.2\\ensa.ma.sensors.app-main-47:\\layout\\activity_main.xml"
+    }
+]
