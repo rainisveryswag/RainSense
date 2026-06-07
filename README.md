@@ -4,27 +4,6 @@ An Android app for exploring and visualising embedded device sensors in real tim
 
 ---
 
-## Project Structure
-
-```
-ensa.ma.sensors
-│
-├── MainActivity.java                      # Main activity with side drawer navigation
-│
-├── fragments/
-│   ├── SensorsListFragment.java           # Full list of available device sensors
-│   ├── SensorGraphFragment.java           # Live graph (temperature, humidity, proximity, magnetic)
-│   ├── MotionSensorFragment.java          # Accelerometer, gravity, gyroscope
-│   ├── StepCounterFragment.java           # Step counter (session + since reboot)
-│   ├── CompassFragment.java               # Digital compass
-│   └── ActivityRecognitionFragment.java   # Activity detection (walk, jump, stationary)
-│
-├── utils/
-│   └── SensorFormatter.java              # Formats raw sensor metadata for display
-│
-└── views/
-    └── LineChartView.java                # Custom canvas-drawn line chart
-```
 
 ---
 
